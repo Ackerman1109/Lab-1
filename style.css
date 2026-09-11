@@ -40,7 +40,7 @@ p {
     line-height: 1.6;
 }
 
-.info-section {
+.info {
     display: flex;
     gap: 40px;
 }
